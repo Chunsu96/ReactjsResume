@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Title": "Final Year Project (CRM System)",
+    //"Image": "test.png",
+    "Description": "A CRM system created with google API to upload and download from google drive. Built in C# .NET windows application",
+    "HasWebLink": false,
+    "WebUrl": "",
+    "HasGithubLink": true,
+    "GithubUrl": "Chunsu96/FYP",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  },
+  {
+    "Id": 2,
+    "Title": "Personal Porfolio",
+    //"Image": "test.png",
+    "Description": "A template to build your own personal portfolio website. Built in .NET Core and React.js",
+    "HasWebLink": false,
+    "WebUrl": "",
+    "HasGithubLink": true,
+    "GithubUrl": "Chunsu96/PersonalPortfolio",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  }
+]

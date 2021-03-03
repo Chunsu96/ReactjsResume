@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Name": "Nottingham Trent University",
+    "Logo": "school.png",
+    "Course": "Computing",
+    "Degree": "Bachelors of Science",
+    "StartDate": "Jan 2015",
+    "EndDate": "Dec 2018",
+    "Location": "Nottingham, UK"
+  }
+]

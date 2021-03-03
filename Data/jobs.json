@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "CompanyName": "Calyx",
+    "Logo": "test-company-logo.jpg",
+    "JobTitle": "Associate Software Engineer",
+    "StartDate": "Feb 2018",
+    "EndDate": "Present",
+    "Location": "Nottingham, UK",
+    "JobDuties": [
+      "Build software that manages clinical study trials and perform change requests for live studies by using an in-house language to program the trials, learning the language from scratch and adapting to a new programming environment. It is used with the combination of SQL to effectively manage patients' clinical data and software data relating to the trial. The role requires me to be as accurate and thorough with my work as I work with live patient data and the calculation of trial medication"
+    ]
+  }
+]

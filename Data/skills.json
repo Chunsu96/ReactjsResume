@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Category": "Programming Languages",
+    "SkillsList": [
+      "C# (.NET, MVC)",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Python",
+      "JSON",
+      "PHP",
+      "Java",
+      "SDL (In-house Language)"
+    ]
+  },
+  {
+    "Id": 2,
+    "category": "JavaScript Frameworks",
+    "skillsList": [
+      "React.js"
+    ]
+  }
+
+]
